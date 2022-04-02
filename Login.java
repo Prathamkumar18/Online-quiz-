@@ -52,7 +52,7 @@ public class Login extends JFrame implements ActionListener
             }
             else
             {
-                JOptionPane.showMessageDialog(null,"invalid input");
+                JOptionPane.showMessageDialog(null,"invalid input(try again)");
             }
         }
              
